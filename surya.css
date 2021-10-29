@@ -2,11 +2,7 @@
 	background: #FFD9D9;
 	
 	color: red;
-}
-
-p
-{
-border-bottom: 4px solid red;
+	border-bottom: 4px solid red;
 	padding-top: 15px;
 	margin:-10px;
 	display: none;
@@ -15,9 +11,10 @@ border-bottom: 4px solid red;
 	text-align: center;
 	vertical-align:center;
 }
-h2
+
+p
 {
-background: #FFD9D9;
-	
-	color: black;
+	color="blue"
+
 }
+
